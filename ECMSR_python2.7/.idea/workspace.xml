@@ -1,0 +1,903 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c4746186-ebe0-4118-883d-41f7dc32696e" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/medical_1106_logistic$splitWords.coverage" NAME="splitWords Coverage Results" MODIFIED="1517982681066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medicalVector" />
+    <SUITE FILE_PATH="coverage/medical_0220_logistic$read.coverage" NAME="read Coverage Results" MODIFIED="1529324673273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0618ECMA_Aprioir" />
+    <SUITE FILE_PATH="coverage/medical_0220_logistic$0411preECMA.coverage" NAME="0411preECMA Coverage Results" MODIFIED="1523418064280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data5W_formula_function" />
+    <SUITE FILE_PATH="coverage/medical_0212_logistic$MyMedicalMatrix.coverage" NAME="MyMedicalMatrix Coverage Results" MODIFIED="1519117264646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medicalVector" />
+    <SUITE FILE_PATH="coverage/medical_0220_logistic$preData.coverage" NAME="preData Coverage Results" MODIFIED="1524454894923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LiTest" />
+    <SUITE FILE_PATH="coverage/medical_0220_logistic$processNewPres.coverage" NAME="processNewPres Coverage Results" MODIFIED="1521546568422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data5W_formula_function" />
+    <SUITE FILE_PATH="coverage/medical_0220_logistic$preceptronNotDpl.coverage" NAME="preceptronNotDpl Coverage Results" MODIFIED="1519365556278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part2" />
+    <SUITE FILE_PATH="coverage/medical_0926_logistic$perFormulaFeature.coverage" NAME="perFormulaFeature Coverage Results" MODIFIED="1509595290419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data5W_formula_function" />
+    <SUITE FILE_PATH="coverage/medical_0926_logistic$noL1EvaluateMethod.coverage" NAME="noL1EvaluateMethod Coverage Results" MODIFIED="1509958719845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data5W_formula_function" />
+    <SUITE FILE_PATH="coverage/medical_0220_logistic$funcStastic.coverage" NAME="funcStastic Coverage Results" MODIFIED="1519217098449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part2" />
+    <SUITE FILE_PATH="coverage/medical_0220_logistic$funcLDA.coverage" NAME="funcLDA Coverage Results" MODIFIED="1520255623890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part2" />
+    <SUITE FILE_PATH="coverage/medical_0926_logistic$function_process.coverage" NAME="function_process Coverage Results" MODIFIED="1509593771976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data5W_formula_function" />
+    <SUITE FILE_PATH="coverage/medical_0212_logistic$trainWordVector.coverage" NAME="trainWordVector Coverage Results" MODIFIED="1519113776639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medicalVector" />
+    <SUITE FILE_PATH="coverage/medical_1106_logistic$flowPath.coverage" NAME="flowPath Coverage Results" MODIFIED="1510018359878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data5W_formula_function" />
+    <SUITE FILE_PATH="coverage/medical_0220_logistic$cutData.coverage" NAME="cutData Coverage Results" MODIFIED="1524973925779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LiTest" />
+    <SUITE FILE_PATH="coverage/medical_1106_logistic$groupLasso.coverage" NAME="groupLasso Coverage Results" MODIFIED="1515555840094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data5W_formula_function" />
+    <SUITE FILE_PATH="coverage/medical_1106_logistic$trainDocVector.coverage" NAME="trainDocVector Coverage Results" MODIFIED="1517894471369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medicalVector" />
+    <SUITE FILE_PATH="coverage/ECMSR_python2.7$trainWork.coverage" NAME="trainWork Coverage Results" MODIFIED="1529657512154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lasso" />
+    <SUITE FILE_PATH="coverage/medical_1106_logistic$EvaluateMethodforAll.coverage" NAME="EvaluateMethodforAll Coverage Results" MODIFIED="1518251871040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lasso" />
+    <SUITE FILE_PATH="coverage/medical_1106_logistic$functionStastic.coverage" NAME="functionStastic Coverage Results" MODIFIED="1518157717584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part2" />
+    <SUITE FILE_PATH="coverage/medical_0220_logistic$evaluate_LabeledLDA.coverage" NAME="evaluate_LabeledLDA Coverage Results" MODIFIED="1520082434715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LDA_master" />
+    <SUITE FILE_PATH="coverage/medical_1106_logistic$trainWork.coverage" NAME="trainWork Coverage Results" MODIFIED="1517814834665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lasso" />
+    <SUITE FILE_PATH="coverage/medical_1106_logistic$EvaluateMethodforAll__1_.coverage" NAME="EvaluateMethodforAll (1) Coverage Results" MODIFIED="1517811435871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lasso" />
+    <SUITE FILE_PATH="coverage/medical_1106_logistic$connect.coverage" NAME="connect Coverage Results" MODIFIED="1517824589718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataBase" />
+    <SUITE FILE_PATH="coverage/medical_1106_logistic$tt.coverage" NAME="tt Coverage Results" MODIFIED="1516874154875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lasso" />
+    <SUITE FILE_PATH="coverage/medical_1106_logistic$trainMutilGroup__1_.coverage" NAME="trainMutilGroup (1) Coverage Results" MODIFIED="1517296503101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part2" />
+    <SUITE FILE_PATH="coverage/medical_1106_logistic$apriori.coverage" NAME="apriori Coverage Results" MODIFIED="1517471308271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/apriori" />
+    <SUITE FILE_PATH="coverage/medical_1106_logistic$trainMutilGroup.coverage" NAME="trainMutilGroup Coverage Results" MODIFIED="1517298148742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part2" />
+    <SUITE FILE_PATH="coverage/medical_1106_logistic$trainLRL2.coverage" NAME="trainLRL2 Coverage Results" MODIFIED="1517210446509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lasso" />
+    <SUITE FILE_PATH="coverage/medical_0926_logistic$evaluateMethd.coverage" NAME="evaluateMethd Coverage Results" MODIFIED="1509695758328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data5W_formula_function" />
+    <SUITE FILE_PATH="coverage/medical_0220_logistic$funcLDAprefunc.coverage" NAME="funcLDAprefunc Coverage Results" MODIFIED="1519452668032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part2" />
+    <SUITE FILE_PATH="coverage/medical_0926_logistic$aprioriMethod.coverage" NAME="aprioriMethod Coverage Results" MODIFIED="1509693031882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/apriori" />
+    <SUITE FILE_PATH="coverage/medical_1106_logistic$perceptron.coverage" NAME="perceptron Coverage Results" MODIFIED="1518270066136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part2" />
+    <SUITE FILE_PATH="coverage/medical_0220_logistic$stanfordLLDA.coverage" NAME="stanfordLLDA Coverage Results" MODIFIED="1520155618559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/medical_0220_logistic$EvaECMA_Apriori.coverage" NAME="EvaECMA_Apriori Coverage Results" MODIFIED="1529654436220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/apriori" />
+    <SUITE FILE_PATH="coverage/ECMSR_python2_7$tj.coverage" NAME="tj Coverage Results" MODIFIED="1593242258707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/apriori" />
+    <SUITE FILE_PATH="coverage/medical_1106_logistic$LDAtest0209.coverage" NAME="LDAtest0209 Coverage Results" MODIFIED="1518244694659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part2" />
+    <SUITE FILE_PATH="coverage/medical_0220_logistic$apriori.coverage" NAME="apriori Coverage Results" MODIFIED="1519565707893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/apriori" />
+    <SUITE FILE_PATH="coverage/medical_1106_logistic$formulaFeature.coverage" NAME="formulaFeature Coverage Results" MODIFIED="1517981081102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data5W_formula_function" />
+    <SUITE FILE_PATH="coverage/medical_0220_logistic$trainWork.coverage" NAME="trainWork Coverage Results" MODIFIED="1526543265333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lasso" />
+    <SUITE FILE_PATH="coverage/medical_0220_logistic$preTCMFunction__1_.coverage" NAME="preTCMFunction (1) Coverage Results" MODIFIED="1520072431897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/preFunction0303" />
+    <SUITE FILE_PATH="coverage/medical_0220_logistic$wordVectorPre.coverage" NAME="wordVectorPre Coverage Results" MODIFIED="1524490025147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LiTest" />
+    <SUITE FILE_PATH="coverage/medical_1106_logistic$checkMedical.coverage" NAME="checkMedical Coverage Results" MODIFIED="1509977420122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data5W_formula_function" />
+    <SUITE FILE_PATH="coverage/medical_0926_logistic$functionSample.coverage" NAME="functionSample Coverage Results" MODIFIED="1509937843157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data5W_formula_function" />
+    <SUITE FILE_PATH="coverage/medical_0926_logistic$connect.coverage" NAME="connect Coverage Results" MODIFIED="1509958618273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataBase" />
+    <SUITE FILE_PATH="coverage/medical_0220_logistic$readWord.coverage" NAME="readWord Coverage Results" MODIFIED="1520056072086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data0303" />
+    <SUITE FILE_PATH="coverage/medical_1106_logistic$peiwuStatistics.coverage" NAME="peiwuStatistics Coverage Results" MODIFIED="1510820370767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data5W_formula_function" />
+    <SUITE FILE_PATH="coverage/medical_0926_logistic$flowPath.coverage" NAME="flowPath Coverage Results" MODIFIED="1509969038255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data5W_formula_function" />
+    <SUITE FILE_PATH="coverage/medical_1106_logistic$cgd.coverage" NAME="cgd Coverage Results" MODIFIED="1516863206372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data5W_formula_function" />
+    <SUITE FILE_PATH="coverage/medical_0212_logistic$funcLDA__1_.coverage" NAME="funcLDA (1) Coverage Results" MODIFIED="1519112216731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part2" />
+    <SUITE FILE_PATH="coverage/medical_0212_logistic$preLDAData.coverage" NAME="preLDAData Coverage Results" MODIFIED="1519111109242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part2" />
+    <SUITE FILE_PATH="coverage/medical_1106_logistic$stastic.coverage" NAME="stastic Coverage Results" MODIFIED="1518262888532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part2" />
+    <SUITE FILE_PATH="coverage/medical_0220_logistic$processHXHY_JP.coverage" NAME="processHXHY_JP Coverage Results" MODIFIED="1529590402939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data5W_formula_function" />
+    <SUITE FILE_PATH="coverage/medical_0220_logistic$preMedicalInfo.coverage" NAME="preMedicalInfo Coverage Results" MODIFIED="1520067665236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medicalVector" />
+    <SUITE FILE_PATH="coverage/medical_0212_logistic$funcLDAprefunc.coverage" NAME="funcLDAprefunc Coverage Results" MODIFIED="1519112115793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part2" />
+    <SUITE FILE_PATH="coverage/medical_0220_logistic$wordRead.coverage" NAME="wordRead Coverage Results" MODIFIED="1520055328780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data0303" />
+    <SUITE FILE_PATH="coverage/medical_1106_logistic$noL1EvaluateMethod.coverage" NAME="noL1EvaluateMethod Coverage Results" MODIFIED="1510392090180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data5W_formula_function" />
+    <SUITE FILE_PATH="coverage/medical_0220_logistic$preLDAData.coverage" NAME="preLDAData Coverage Results" MODIFIED="1519454365482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part2" />
+    <SUITE FILE_PATH="coverage/medical_0220_logistic$draw_heatMap.coverage" NAME="draw_heatMap Coverage Results" MODIFIED="1529638548406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data5W_formula_function" />
+    <SUITE FILE_PATH="coverage/medical_1106_logistic$selactData.coverage" NAME="selactData Coverage Results" MODIFIED="1517813905889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataBase" />
+    <SUITE FILE_PATH="coverage/medical_1106_logistic$trainLRL1.coverage" NAME="trainLRL1 Coverage Results" MODIFIED="1516949900505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lasso" />
+    <SUITE FILE_PATH="coverage/medical_1106_logistic$funcLDA.coverage" NAME="funcLDA Coverage Results" MODIFIED="1518271404110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part2" />
+    <SUITE FILE_PATH="coverage/medical_0926_logistic$checkMedical.coverage" NAME="checkMedical Coverage Results" MODIFIED="1509544723893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data5W_formula_function" />
+    <SUITE FILE_PATH="coverage/medical_1106_logistic$trainVector.coverage" NAME="trainVector Coverage Results" MODIFIED="1517898282999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medicalVector" />
+    <SUITE FILE_PATH="coverage/medical_0220_logistic$ldaAllpresfunc_onlyOne.coverage" NAME="ldaAllpresfunc_onlyOne Coverage Results" MODIFIED="1519463901127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part2" />
+    <SUITE FILE_PATH="coverage/medical_1106_logistic$perFormulaFeature.coverage" NAME="perFormulaFeature Coverage Results" MODIFIED="1517640717222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data5W_formula_function" />
+    <SUITE FILE_PATH="coverage/medical_0220_logistic$stastic.coverage" NAME="stastic Coverage Results" MODIFIED="1519451130144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part2" />
+    <SUITE FILE_PATH="coverage/medical_0926_logistic$writeData1031.coverage" NAME="writeData1031 Coverage Results" MODIFIED="1509421492126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataBase" />
+    <SUITE FILE_PATH="coverage/medical_0220_logistic$preTCMFunction.coverage" NAME="preTCMFunction Coverage Results" MODIFIED="1520069178462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data0303" />
+    <SUITE FILE_PATH="coverage/medical_1106_logistic$findMultiGroup.coverage" NAME="findMultiGroup Coverage Results" MODIFIED="1517304009890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part2" />
+    <SUITE FILE_PATH="coverage/medical_1106_logistic$aprioriMethod.coverage" NAME="aprioriMethod Coverage Results" MODIFIED="1517470911981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/apriori" />
+    <SUITE FILE_PATH="coverage/medical_1106_logistic$evaluateMethd.coverage" NAME="evaluateMethd Coverage Results" MODIFIED="1516851246209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data5W_formula_function" />
+    <SUITE FILE_PATH="coverage/medical_1106_logistic$trainWordVector.coverage" NAME="trainWordVector Coverage Results" MODIFIED="1517983363304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medicalVector" />
+    <SUITE FILE_PATH="coverage/medical_0212_logistic$funcLDA.coverage" NAME="funcLDA Coverage Results" MODIFIED="1519111874453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part2" />
+    <SUITE FILE_PATH="coverage/medical_1106_logistic$trainWorkDosage.coverage" NAME="trainWorkDosage Coverage Results" MODIFIED="1517735461195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lasso" />
+    <SUITE FILE_PATH="coverage/medical_0220_logistic$EvaMutilGroupApriori.coverage" NAME="EvaMutilGroupApriori Coverage Results" MODIFIED="1523424224829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/apriori" />
+    <SUITE FILE_PATH="coverage/medical_1106_logistic$preMedicalInfo.coverage" NAME="preMedicalInfo Coverage Results" MODIFIED="1517982721151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medicalVector" />
+    <SUITE FILE_PATH="coverage/medical_1106_logistic$dataFeatureValue.coverage" NAME="dataFeatureValue Coverage Results" MODIFIED="1517639559970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data5W_formula_function" />
+    <SUITE FILE_PATH="coverage/medical_0220_logistic$ldaOnlyOne.coverage" NAME="ldaOnlyOne Coverage Results" MODIFIED="1519455497476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part2" />
+    <SUITE FILE_PATH="coverage/ECMSR_python2_7$tj_QRJD.coverage" NAME="tj_QRJD Coverage Results" MODIFIED="1592901957251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/apriori" />
+    <SUITE FILE_PATH="coverage/medical_1106_logistic$xcorr_demo.coverage" NAME="xcorr_demo Coverage Results" MODIFIED="1517021627265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/../.." />
+    <SUITE FILE_PATH="coverage/medical_0220_logistic$preApriori.coverage" NAME="preApriori Coverage Results" MODIFIED="1520603764481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data5W_formula_function" />
+    <SUITE FILE_PATH="coverage/medical_0220_logistic$perceptron.coverage" NAME="perceptron Coverage Results" MODIFIED="1519301792374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part2" />
+    <SUITE FILE_PATH="coverage/medical_1106_logistic$cgdtest.coverage" NAME="cgdtest Coverage Results" MODIFIED="1516862875708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data5W_formula_function" />
+    <SUITE FILE_PATH="coverage/medical_0220_logistic$test.coverage" NAME="test Coverage Results" MODIFIED="1519122723076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NeuralNets" />
+    <SUITE FILE_PATH="coverage/medical_0220_logistic$preSeq2seq.coverage" NAME="preSeq2seq Coverage Results" MODIFIED="1520257068187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DatainTCM" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="257847600">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="11" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="8" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="csv" value="35" />
+          <entry key="py" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="35" />
+          <entry key="Python" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="5" />
+          <entry key="py" value="590" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="Python" value="590" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="medical_0926_logistic" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/apriori/tj.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="418" column="6" selection-start-line="418" selection-start-column="6" selection-end-line="418" selection-end-column="6" />
+              <folding>
+                <element signature="e#252#262#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apriori/apriori.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apriori/log-time.csv">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apriori/bc_QRJD_Hnew+H_623/0.001-128-0.0002-ECMA_QRJD_ACC.csv">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aprioriResults/AS001.csv">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>痰</find>
+      <find>sort</find>
+      <find>print</find>
+      <find>wf</find>
+      <find>label index</find>
+      <find>DTDA</find>
+      <find>金银花</find>
+      <find>板蓝根</find>
+      <find>川芎</find>
+      <find>仙鹤草</find>
+      <find>丹参</find>
+      <find>没药</find>
+      <find>﻿患者</find>
+      <find>9 22 2204</find>
+      <find>9 22 2</find>
+      <find>9 22 2404</find>
+      <find>22 11 2404</find>
+      <find>22 11</find>
+      <find>11 22 2404</find>
+      <find>2728</find>
+      <find>蒲公英</find>
+      <find>liblinear</find>
+      <find>input</find>
+      <find>read</find>
+      <find>sigmoid</find>
+      <find>all_r</find>
+      <find>suplist</find>
+      <find>num_n</find>
+      <find>itemSet</find>
+      <find>main</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/0618ECMA_Aprioir/ECMA_QRJD_Apriori_1.csv" />
+        <option value="$PROJECT_DIR$/0618ECMA_Aprioir/ECMA_HXHY_Apriori_1.csv" />
+        <option value="$PROJECT_DIR$/0618ECMA_Aprioir/ECMA_HT_Apriori_1.csv" />
+        <option value="$PROJECT_DIR$/0618ECMA_Aprioir/ECMA_HT_Apriori_2.csv" />
+        <option value="$PROJECT_DIR$/ECMA_Apriori_5/ECMA_QRJD_Apriori_1.csv" />
+        <option value="$PROJECT_DIR$/ECMA_Apriori_5/ECMA_HXHY_Apriori_2.csv" />
+        <option value="$PROJECT_DIR$/ECMA_Apriori_5/ECMA_HXHY_Apriori_1.csv" />
+        <option value="$PROJECT_DIR$/ECMA_Apriori_5/ECMA_HT_Apriori_1.csv" />
+        <option value="$PROJECT_DIR$/ECMA_Apriori_5/ECMA_ZJG_Apriori_1.csv" />
+        <option value="$PROJECT_DIR$/ECMA_Apriori_5/ECMA_ZJG_Apriori_2.csv" />
+        <option value="$PROJECT_DIR$/ECMA_Apriori_10_0.04/ECMA_HT_Apriori_1.csv" />
+        <option value="$PROJECT_DIR$/ECMA_Apriori_10_0.04/ECMA_QRJD_Apriori_1.csv" />
+        <option value="$PROJECT_DIR$/ECMA_Apriori_10_0.04/ECMA_HXHY_Apriori_1.csv" />
+        <option value="$PROJECT_DIR$/ECMA_Apriori_10_0.04/ECMA_ZJG_Apriori_1.csv" />
+        <option value="$PROJECT_DIR$/ECMA_Apriori_10_0.04/ECMA_ZX_Apriori_1.csv" />
+        <option value="$PROJECT_DIR$/ECMA_Apriori_10_0.04/ECMA_LS_Apriori_1.csv" />
+        <option value="$PROJECT_DIR$/ECMA_Apriori_10_0.04/ECMA_XZ_Apriori_1.csv" />
+        <option value="$PROJECT_DIR$/ECMA_Apriori_10_0.04/ECMA_MM_Apriori_1.csv" />
+        <option value="$PROJECT_DIR$/ECMA_Apriori_10_0.04/ECMA_JP_Apriori_1.csv" />
+        <option value="$PROJECT_DIR$/ECMA_Apriori_10_0.04/ECMA_ZK_Apriori_1.csv" />
+        <option value="$PROJECT_DIR$/ECMA_Apriori_5_15epochs/ECMA_QRJD_Apriori_1.csv" />
+        <option value="$PROJECT_DIR$/ECMA_Apriori_5_15epochs/ECMA_HXHY_Apriori_1.csv" />
+        <option value="$PROJECT_DIR$/ECMA_Apriori_5_15epochs/ECMA_LS_Apriori_1.csv" />
+        <option value="$PROJECT_DIR$/ECMA_Apriori_5_15epochs/ECMA_HXHY_Apriori_3.csv" />
+        <option value="$PROJECT_DIR$/ECMA_Apriori_10_15epochs_0.05/ECMA_LS_Apriori_1.csv" />
+        <option value="$PROJECT_DIR$/ECMA_Apriori_10_15epochs_0.05/ECMA_AS_Apriori_1.csv" />
+        <option value="$PROJECT_DIR$/ECMA_Apriori_10_15epochs_0.05/ECMA_HT_Apriori_1.csv" />
+        <option value="$PROJECT_DIR$/ECMA_Apriori_10_15epochs_0.05/ECMA_HXZT_Apriori_1.csv" />
+        <option value="$PROJECT_DIR$/ECMA_Apriori_10_20epochs_0.02/ECMA_HT_Apriori_1.csv" />
+        <option value="$PROJECT_DIR$/ECMA_Apriori_10_20epochs_0.02/ECMA_LS_Apriori_1.csv" />
+        <option value="$PROJECT_DIR$/ECMA_Apriori_10_15epochs_0.05/ECMA_TEST.csv" />
+        <option value="$PROJECT_DIR$/ECMA_Apriori_10_20epochs_0.02/ECMA_TEST.csv" />
+        <option value="$PROJECT_DIR$/ECMA_Apriori_10_20epochs_0.02/ECMA_ZK_Apriori_1.csv" />
+        <option value="$PROJECT_DIR$/ECMA_Apriori_10_20epochs_0.02/ECMA_HXZT_Apriori_1.csv" />
+        <option value="$PROJECT_DIR$/ECMA_Apriori_10_20epochs_0.02/ECMA_ZY_Apriori_1.csv" />
+        <option value="$PROJECT_DIR$/ECMA_Apriori_10_20epochs_0.02/ECMA_TL_Apriori_1.csv" />
+        <option value="$PROJECT_DIR$/ECMA_Apriori_10_20epochs_0.02_2/ECMA_AS_Apriori_1.csv" />
+        <option value="$PROJECT_DIR$/ECMA_Apriori_10_20epochs_0.02_2/ECMA_TEST.csv" />
+        <option value="$PROJECT_DIR$/ECMA_Apriori_10_20epochs_0.05_l2_1/ECMA_JP_Apriori_1.csv" />
+        <option value="$PROJECT_DIR$/ECMA_Apriori_10_20epochs_0.05_l2_1/ECMA_HT_Apriori_3.csv" />
+        <option value="$PROJECT_DIR$/ECMA_Apriori_10_20epochs_0.05_l2_1/ECMA_JP_Apriori_6.csv" />
+        <option value="$PROJECT_DIR$/ECMA_Apriori_10_20epochs_0.05_l2_1/ECMA_LS_Apriori_7.csv" />
+        <option value="$PROJECT_DIR$/data5W_formula_function/data_process.py" />
+        <option value="$PROJECT_DIR$/ECMA_Apriori_10_20epochs_0.05_l2_1/ECMA_JP_Apriori_9.csv" />
+        <option value="$PROJECT_DIR$/inter/1_inter.csv" />
+        <option value="$PROJECT_DIR$/data5W_formula_function/processHXHY_JP.py" />
+        <option value="$PROJECT_DIR$/data5W_formula_function/draw_heatMap.py" />
+        <option value="$PROJECT_DIR$/Lasso/trainWork.py" />
+        <option value="$PROJECT_DIR$/apriori/EvaECMA_Apriori.py" />
+        <option value="$PROJECT_DIR$/apriori/tj_QRJD.py" />
+        <option value="$PROJECT_DIR$/apriori/tj.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="9" />
+    <option name="y" value="5" />
+    <option name="width" value="1422" />
+    <option name="height" value="1045" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Buildout</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ECMSR_python2.7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ECMSR_python2.7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ECMSR_python2.7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ECMSR_python2.7" type="462c0819:PsiDirectoryNode" />
+              <item name="aprioriEvaDice" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1605515685011" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.19310345" />
+    <property name="recentsLimit" value="5" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ECMSR_python2.7\apriori" />
+      <recent name="E:\ECMSR_python2.7" />
+      <recent name="E:\ECMSR_python2.7\ECMA_QRJD_hnew" />
+      <recent name="E:\ECMSR_python2.7\ECMA_AP_XR_top6" />
+      <recent name="E:\ECMSR_python2.7\ECMA_AP_BXR_top6" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\ECMSR_python2.7" />
+      <recent name="E:\ECMSR_python2.7\ECMA_QRJD_Hnew+H" />
+      <recent name="D:\medical_0220_logistic\0618ECMA_Aprioir" />
+      <recent name="D:\medical_0220_logistic\LiTest\PCNNData" />
+      <recent name="D:\medical_0220_logistic\LiTest\splitData" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.tj">
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="medical_0926_logistic" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration name="EvaECMA_Apriori" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="medical_0926_logistic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python2\python2.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/apriori" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/apriori/EvaECMA_Apriori.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="draw_heatMap" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="medical_0926_logistic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data5W_formula_function" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data5W_formula_function/draw_heatMap.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tj" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="medical_0926_logistic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/apriori" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/apriori/tj.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tj_QRJD" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="medical_0926_logistic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/apriori" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/apriori/tj_QRJD.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="trainWork" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="medical_0926_logistic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lasso" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lasso/trainWork.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.EvaECMA_Apriori" />
+      <item itemvalue="Python.trainWork" />
+      <item itemvalue="Python.draw_heatMap" />
+      <item itemvalue="Python.tj" />
+      <item itemvalue="Python.tj_QRJD" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.tj" />
+        <item itemvalue="Python.tj_QRJD" />
+        <item itemvalue="Python.EvaECMA_Apriori" />
+        <item itemvalue="Python.trainWork" />
+        <item itemvalue="Python.draw_heatMap" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4746186-ebe0-4118-883d-41f7dc32696e" name="Default" comment="" />
+      <created>1506433224090</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1506433224090</updated>
+      <workItem from="1578462921689" duration="95000" />
+      <workItem from="1591777339512" duration="35000" />
+      <workItem from="1591858972846" duration="4402000" />
+      <workItem from="1591880519931" duration="5963000" />
+      <workItem from="1592100407667" duration="28491000" />
+      <workItem from="1592355523270" duration="4328000" />
+      <workItem from="1592788130775" duration="29162000" />
+      <workItem from="1593057640594" duration="1295000" />
+      <workItem from="1593236266273" duration="6688000" />
+      <workItem from="1603676725524" duration="1481000" />
+      <workItem from="1604129580066" duration="295000" />
+      <workItem from="1605513463843" duration="102000" />
+      <workItem from="1605514656690" duration="880000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="83217000" />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="9" y="5" width="1422" height="1045" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49528936" visible="true" weight="0.2716593" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5047106" side_tool="true" weight="0.27005732" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3261105" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4978678" weight="0.33261105" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39761648" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" visible="true" weight="0.086622804" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.3293011" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5021322" side_tool="true" weight="0.43770313" />
+      <window_info anchor="bottom" id="Application Servers" order="11" />
+      <window_info anchor="bottom" id="File Transfer" order="12" weight="0.32980973" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" weight="0.3296875" />
+      <window_info anchor="right" id="Data View" order="4" />
+      <window_info anchor="right" id="Database" order="5" side_tool="true" />
+      <window_info anchor="right" id="SciView" order="6" />
+      <window_info anchor="right" id="Palette" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info anchor="right" id="Maven Projects" order="9" />
+      <window_info anchor="right" id="Palette&#9;" order="10" />
+      <window_info anchor="right" id="Theme Preview" order="11" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49528936" visible="true" weight="0.18336888" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5047106" side_tool="true" weight="0.27005732" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3261105" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4978678" visible="true" weight="0.45612136" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39761648" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32974428" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5021322" side_tool="true" weight="0.43770313" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.3293011" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Application Servers" order="11" />
+      <window_info anchor="bottom" id="File Transfer" order="12" weight="0.32980973" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" weight="0.3296875" />
+      <window_info anchor="right" id="Data View" order="4" />
+      <window_info anchor="right" id="Database" order="5" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ECMSR_python2_7$EvaECMA_Apriori.coverage" NAME="EvaECMA_Apriori Coverage Results" MODIFIED="1578462938258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/apriori" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ECMA_Apriori_10_20epochs_0.05_l2_1/ECMA_JP_Apriori_6.csv" />
+    <entry file="file://$PROJECT_DIR$/ECMA_Apriori_10_20epochs_0.05_l2_1/ECMA_LS_Apriori_7.csv" />
+    <entry file="file://$PROJECT_DIR$/ECMA_Apriori_10_20epochs_0.05_l2_1/ECMA_JP_Apriori_9.csv" />
+    <entry file="file://$PROJECT_DIR$/data5W_formula_function/data_process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data5W_formula_function/draw.py" />
+    <entry file="file://$PROJECT_DIR$/inter/one.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data5W_formula_function/processHXHY_JP.py" />
+    <entry file="file://$PROJECT_DIR$/inter/1_inter.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inter/0_inter.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data5W_formula_function/findGroup.py" />
+    <entry file="file://$PROJECT_DIR$/apriori/top_result-0.001-128-0.0002-1-yihong.csv" />
+    <entry file="file://$PROJECT_DIR$/data5W_formula_function/draw_heatMap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lasso/trainWork.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apriori/EvaECMA_Apriori.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apriori/top_result-612-1-yihong.csv" />
+    <entry file="file://$PROJECT_DIR$/ECMA_AP_2/ECMA_AS_Apriori_16_0.001_128_0.0002-1.csv" />
+    <entry file="file://$PROJECT_DIR$/aprioriEvaDice/0618_ZJG_diceEvaluate.csv">
+      <provider selected="true" editor-type-id="LargeFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/实验简便.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ECMA_AP_XR_top6/ECMA_AS_Apriori_16_0.001_128_0.0002-1.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ECMA_AP_BXR_top6/ECMA_AS_Apriori_16_0.001_128_0.00002-1.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apriori/top_result-614-BXR-top7-1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3358">
+          <caret line="146" column="67" selection-start-line="146" selection-start-column="67" selection-end-line="146" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apriori/top_result-612-9-yihong.csv" />
+    <entry file="file://$PROJECT_DIR$/ECMA_AP_614/ECMA_AS_Apriori_16_0.001_128_0.00002-1.csv" />
+    <entry file="file://$PROJECT_DIR$/ECMA_QRJD_hnew/0.01-64-0.01-ECMA_QRJD_ACC.csv" />
+    <entry file="file://$PROJECT_DIR$/apriori/tj_QRJD_hnew_622/0.01-64-0.001-ECMA_QRJD_ACC.csv" />
+    <entry file="file://$PROJECT_DIR$/apriori/bc_QRJD_hnew_622/0.01-64-0.01-ECMA_QRJD_Apriori_16_avg.csv" />
+    <entry file="file://$PROJECT_DIR$/apriori/bc_QRJD_hnew_622/0.01-64-0.01-ECMA_QRJD_ACC.csv" />
+    <entry file="file://$PROJECT_DIR$/apriori/bc_QRJD_hnew_622/0.01-64-0.001-ECMA_QRJD_ACC.csv" />
+    <entry file="file://$PROJECT_DIR$/apriori/bc_QRJD_hnew_622/0.01-64-0.0001-ECMA_QRJD_ACC.csv" />
+    <entry file="file://$PROJECT_DIR$/apriori/tj_QRJD_hnew_622.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="9" selection-end-line="1057" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apriori/tj_QRJD_hnew_622/0.01-64-0.01-ECMA_QRJD_ACC.csv" />
+    <entry file="file://$PROJECT_DIR$/ECMA_Hnew+H_top5/ECMA_AS_Apriori_0.01_64_0.0001-1.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ECMA_Hnew+H_top6/ECMA_AS_Apriori_0.01_64_0.0001-1.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ECMA_QRJD_Hnew+H/0.001-128-0.0002-ECMA_QRJD_ACC.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apriori/tj_QRJD.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15249">
+          <caret line="663" column="23" selection-start-line="663" selection-start-column="23" selection-end-line="663" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ECMA-623-Hnew+H-top6/ECMA_AS_Apriori_0.001_64_0.0002-1.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apriori/tj_QRJD_Hnew+H_623.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1978">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apriori/top_result-614-BXR-top7-3.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="805">
+          <caret line="35" column="27" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ECMA-623-Hnew+H-top5/ECMA_AS_Apriori_0.001_128_0.0002-1.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apriori/top_result-614-BXR-top7-4.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ECMA-627-Hnew+H-unit80-top5-8/ECMA_AS_Apriori_0.001_128_0.0002-top5-1.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apriori/627/unit80_top5_AS_apriori-4.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apriori/tj_result_627_Hnew+H_unit80_top5-8/top5-AS-1.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apriori/627/unit80_top5_AS_apriori-1.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apriori/627/unit80_top5_AS_apriori-2.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apriori/top_result-614-BXR-top7-5.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apriori/bc_QRJD_Hnew+H_623/0.001-128-0.0002-ECMA_QRJD_ACC.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aprioriResults/AS001.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apriori/apriori.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apriori/log-time.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apriori/tj.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="418" column="6" selection-start-line="418" selection-start-column="6" selection-end-line="418" selection-end-column="6" />
+          <folding>
+            <element signature="e#252#262#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.19310345" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.19310345" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.5 (PICO_ten_fold) interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Python 2.7 (ECMSR_python2.7)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.19310345" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>medical_0926_logistic</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.19310345" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.19310345" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

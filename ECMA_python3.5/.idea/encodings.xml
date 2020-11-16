@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/myMedicalModel/load_result-0.001-128-0.00002/ECMA_AS_Apriori_16_0.00001_128_0.00002-1.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/myMedicalModel/load_result-0.001-128-0.00002/ECMA_AS_Apriori_16_0.001_128_0.00002-1.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/myMedicalModel/load_result-0.001-128-0.0002-1/ECMA_AS_Apriori_16_0.001_128_0.0002-1.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/myMedicalModel/load_result-0.001-128-0.0002-1/ECMA_LS_Apriori_16_0.001_128_0.0002-1.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/myMedicalModel/load_result-0.001-128-0.0002-1/ECMA_QRJD_Apriori_16_0.001_128_0.0002-1.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/myMedicalModel/load_result-0.001-128-0.0002-xiaorong/ECMA_AS_Apriori_16_0.001_128_0.0002-1.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/myMedicalModel/load_result-615-BXR-top6/ECMA_AS_Apriori_16_0.001_128_0.00002-1.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/noLstm_WH_model/diceRecord.csv" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
